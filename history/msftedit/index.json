@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "msftedit.dll",
+  "latest": "4241457729-29B23D050B766F9CF298BD6C47909AAC-1",
+  "builds": [
+    {
+      "key": "4241457729-29B23D050B766F9CF298BD6C47909AAC-1",
+      "timestamp": "4241457729",
+      "pdb_guid": "29B23D050B766F9CF298BD6C47909AAC",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/4241457729-29B23D050B766F9CF298BD6C47909AAC-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
